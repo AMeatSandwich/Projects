@@ -1,0 +1,5 @@
+Main code in EC4308_code.R
+
+randomForestCode.R is also part of the main code. It will get called on after Elastic Net, before DM test
+
+Functions are in func- codes.
